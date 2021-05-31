@@ -41,7 +41,7 @@ extras_require["admin"] = extras_require["dev"] + ["twine"]
 setup(
     # Mandatory settings
     name="mmhelloworld",
-    version="0.0.2",
+    version="0.0.3",
     url="https://github.com/manasm11/mmhelloworld.git",
     author="Manas Mishra",
     author_email="manas.m22@gmail.com",
